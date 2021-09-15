@@ -1,0 +1,15 @@
+.maindiv{
+  width: 99%;
+  /* display: flex; */
+  margin: auto;
+  background-image: url("./cal.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.ansdiv{
+  font-size: 32px;
+}
+.input{
+  width: 100%;
+}
